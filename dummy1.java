@@ -7,6 +7,9 @@ public static void main(String args[]){
 	conflicting here -2
 		//raising conflict here-1 
 	raising conflict here-2 
+	
+	//Second conflict-1
+	//Raising conflict -1
 
 }
 }

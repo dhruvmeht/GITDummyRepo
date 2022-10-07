@@ -2,13 +2,11 @@ public class dummy1{
 //new file created
 public static void main(String args[]){
 	//main() mehtod added 
-<<<<<<< HEAD
-	conflicting here -2
-	raising conflict here-2 
-=======
-	//conflicting here -1
-	//raising conflict here-1 
 
->>>>>>> c48bdda30fdc748e68941f0190ca151b2d21d980
+//conflicting here -1
+	conflicting here -2
+		//raising conflict here-1 
+	raising conflict here-2 
+
 }
 }
